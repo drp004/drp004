@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. Here's a bit about me:
 
-🔭 About Me :
+🔭 About Me : 3rd year Computer Science Student
 
-  🌱 Currently learning: Artificial Intelligents
+  🌱 Currently learning: Artificial Intelligents / Machine Learning
 
   👨‍💻 I’m a passionately curious about ML and AI
 
