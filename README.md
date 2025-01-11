@@ -16,6 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. H
 
 🚀 Skills and Technologies :
 
-  Languages: Python , Java 
+  Languages: Python , Java , JavaScript
   
   Frameworks: Tensorflow, Sklearn, Keras
