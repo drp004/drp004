@@ -18,8 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. H
 
   Languages: 
   
-  ![python](https://img.icons8.com/?size=40&id=l75OEUJkPAk4&format=png&color=000000)  ![javascript](https://img.icons8.com/?size=40&id=108784&format=png&color=000000)  ![java](https://img.icons8.com/?size=40&id=13679&format=png&color=000000)
+  ![python](https://img.icons8.com/?size=40&id=l75OEUJkPAk4&format=png&color=000000)  ![javascript](https://img.icons8.com/?size=40&id=108784&format=png&color=000000)  ![java](https://img.icons8.com/?size=40&id=13679&format=png&color=000000) 
+  ![mongodb](https://img.icons8.com/?size=30&id=74402&format=png&color=000000) ![express](https://img.icons8.com/?size=30&id=PZQVBAxaueDJ&format=png&color=000000) ![flask](https://img.icons8.com/?size=30&id=ewGOClUtmFX4&format=png&color=000000)
   
-  Frameworks: 
-  
-  ![tensorflow](https://img.icons8.com/?size=40&id=n3QRpDA7KZ7P&format=png&color=000000) ![keras](https://img.icons8.com/?size=30&id=XcSgtbIpgK6W&format=png&color=000000) ![sklearn](https://github.com/user-attachments/assets/d1c8b0ae-0bcd-4da2-8783-1a9b2e2804c8)
+  ![tensorflow](https://img.icons8.com/?size=40&id=n3QRpDA7KZ7P&format=png&color=000000) ![keras](https://img.icons8.com/?size=30&id=XcSgtbIpgK6W&format=png&color=FF0000) ![sklearn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
