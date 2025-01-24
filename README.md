@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. H
   📫 How to reach me:  
   [![linkedin](https://img.icons8.com/?size=30&id=13930&format=png&color=000000)](https://www.linkedin.com/in/dhruv-patel-01960024b) 
 
-  ![email](https://img.icons8.com/?size=40&id=LPcVDft9Isqt&format=png&color=000000) dhruvrpatel201004@gmail.com
+  ![email](https://img.icons8.com/?size=30&id=LPcVDft9Isqt&format=png&color=000000) dhruvrpatel201004@gmail.com
 
 
 🚀 Skills and Technologies :
