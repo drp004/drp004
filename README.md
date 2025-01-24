@@ -22,4 +22,4 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. H
   
   Frameworks: 
   
-  ![tensorflow](https://img.icons8.com/?size=40&id=n3QRpDA7KZ7P&format=png&color=000000) ![sklearn](), Keras
+  ![tensorflow](https://img.icons8.com/?size=40&id=n3QRpDA7KZ7P&format=png&color=000000) ![keras](https://img.icons8.com/?size=30&id=XcSgtbIpgK6W&format=png&color=000000) ![sklearn](https://github.com/user-attachments/assets/d1c8b0ae-0bcd-4da2-8783-1a9b2e2804c8)
