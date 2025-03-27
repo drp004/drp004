@@ -24,5 +24,6 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. H
   [![tensorflow](https://img.icons8.com/?size=40&id=n3QRpDA7KZ7P&format=png&color=000000)](https://www.tensorflow.org/)
   [![keras](https://img.icons8.com/?size=40&id=XcSgtbIpgK6W&format=png&color=FF0000)](https://keras.io/)
   [<img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" hieght="40" width="90">](https://flask.palletsprojects.com/en/stable/)
+  [![react](https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)](https://react.dev/)
   [![mongodb](https://img.icons8.com/?size=40&id=74402&format=png&color=000000)](https://www.mongodb.com/)
   [![express](https://img.icons8.com/?size=40&id=PZQVBAxaueDJ&format=png&color=000000)](https://expressjs.com/)
