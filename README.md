@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. H
   [![javascript](https://img.icons8.com/?size=40&id=108784&format=png&color=000000)](https://www.javascript.com/)
   [![java](https://img.icons8.com/?size=40&id=13679&format=png&color=000000)](https://www.java.com/en/) 
 
-  [<img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" hieght="40" width="90">](https://flask.palletsprojects.com/en/stable/)
   [![react](https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)](https://react.dev/)
   [![mongodb](https://img.icons8.com/?size=40&id=74402&format=png&color=000000)](https://www.mongodb.com/)
   [![express](https://img.icons8.com/?size=40&id=PZQVBAxaueDJ&format=png&color=000000)](https://expressjs.com/)
+  [<img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" hieght="40" width="90">](https://flask.palletsprojects.com/en/stable/)
   
   [![pandas](https://img.icons8.com/?size=40&id=xSkewUSqtErH&format=png&color=000000)](https://pandas.pydata.org/)
   [![numpy](https://img.icons8.com/?size=40&id=aR9CXyMagKIS&format=png&color=000000)](https://numpy.org/)
