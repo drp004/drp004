@@ -1,30 +1,85 @@
-👋 Hi, I'm Dhruv Patel!
+# 👋 Hi, I'm Dhruv Patel
 
-Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. Here's a bit about me:
+🚀 **Machine Learning Engineer | LLM | Voice AI | RAG Systems**
 
-🔭 About Me : 3rd year Computer Science Student
+I build **production-grade AI systems** including VoiceBots, LLM pipelines, and multimodal applications.
+Experienced in deploying real-world solutions across multiple clients and optimizing AI systems at scale.
 
-  🌱 Currently learning: Artificial Intelligents / Machine Learning
+---
 
-  👨‍💻 I’m a passionately curious about ML and AI
+## 🧠 About Me
 
-  📫 How to reach me:  
-  [![linkedin](https://img.icons8.com/?size=30&id=13930&format=png&color=000000)](https://www.linkedin.com/in/dhruv-patel-01960024b)   [![email](https://img.icons8.com/?size=30&id=LPcVDft9Isqt&format=png&color=000000)](https://dhruvrpatel201004@gmail.com)
+* 🎓 B.Tech Computer Science @ Parul University (2022–2026)
+* 🤖 Strong focus on **LLMs, NLP, RAG, and Voice AI systems**
+* ⚙️ Hands-on experience with **production deployments (STT, LLM, GPU infra)**
+* 📉 Reduced LLM cost by **~75%** via pipeline optimization
+* 🚀 Built and deployed AI systems used by real clients
 
+---
 
-🚀 Skills and Technologies :
-  
-  [![python](https://img.icons8.com/?size=40&id=l75OEUJkPAk4&format=png&color=000000)](https://www.python.org/) &nbsp; 
-  [![javascript](https://img.icons8.com/?size=40&id=108784&format=png&color=000000)](https://www.javascript.com/) &nbsp; 
-  [![java](https://img.icons8.com/?size=40&id=13679&format=png&color=000000)](https://www.java.com/en/) &nbsp; 
+## 🔥 What I Work On
 
-  [![react](https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)](https://react.dev/) &nbsp; 
-  [![mongodb](https://img.icons8.com/?size=40&id=74402&format=png&color=000000)](https://www.mongodb.com/) &nbsp; 
-  [![express](https://img.icons8.com/?size=40&id=PZQVBAxaueDJ&format=png&color=000000)](https://expressjs.com/) &nbsp; 
-  [<img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" hieght="40" width="90">](https://flask.palletsprojects.com/en/stable/) &nbsp; 
-  
-  [![pandas](https://img.icons8.com/?size=40&id=xSkewUSqtErH&format=png&color=000000)](https://pandas.pydata.org/) &nbsp; 
-  [![numpy](https://img.icons8.com/?size=40&id=aR9CXyMagKIS&format=png&color=000000)](https://numpy.org/) &nbsp; 
-  [<img src="https://camo.githubusercontent.com/dd749c222d8c2520e9595af51d39578b46e22d5190fe5b2f31c01bc32446321e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e737667" hieght="40" width="80">](https://scikit-learn.org/stable/) &nbsp; 
-  [![tensorflow](https://img.icons8.com/?size=40&id=n3QRpDA7KZ7P&format=png&color=000000)](https://www.tensorflow.org/) &nbsp; 
-  [![keras](https://img.icons8.com/?size=40&id=XcSgtbIpgK6W&format=png&color=FF0000)](https://keras.io/) &nbsp; 
+* 🗣️ **Voice AI Systems (VoiceBots, STT/TTS pipelines)**
+* 🧠 **LLMs (Gemma, LLaMA, prompt engineering, agents)**
+* 🔍 **RAG (Retrieval-Augmented Generation)**
+* 🎧 **Audio Processing & Speech Systems**
+* ⚡ **FastAPI + scalable ML backends**
+
+---
+
+## 💼 Experience Highlights
+
+### 🟣 AutoQA
+
+* Migrated sentiment pipeline → **Gemini (↓ ~75% cost)**
+* Built **LLM token tracking system**
+* Worked on **RAG + audio pipelines + intent classification**
+
+### 🔵 xPertVoice
+
+* Deployed **Gemma-3 & Gemma-4 LLMs in production**
+* Worked on **STT + GPU-based deployment systems**
+* Built **LLM agent integrations**
+
+### 🟢 VoiceBot (Vitos)
+
+* Delivered AI VoiceBot solutions for clients like Airtel, PhonePe, BigBasket, Bajaj Electricals
+* Built **prompt systems + workflow automation tools**
+* Developed internal frameworks: **Prompt Library & Action Forge (prod deployed)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Core
+
+`Python` `Machine Learning` `Deep Learning` `NLP` `LLMs` `RAG`
+
+### ⚙️ Systems
+
+`STT` `TTS` `Voice AI` `Audio Processing` `GPU Deployment`
+
+### 🧰 Tools
+
+`FastAPI` `LangGraph` `Scikit-learn` `Pandas` `NumPy` `Git`
+
+---
+
+## 📌 Featured Projects
+
+* 🔹 AI Learning Assistant (Multimodal LLM system)
+* 🔹 Movie Recommendation System
+* 🔹 Car Price Prediction (ML Regression)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.icons8.com/?size=30\&id=13930\&format=png\&color=000000)](https://www.linkedin.com/in/dhruv-patel-01960024b)
+[![Email](https://img.icons8.com/?size=30\&id=LPcVDft9Isqt\&format=png\&color=000000)](mailto:dhruvrpatel201004@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building **end-to-end AI systems** — from model training → deployment → real-world impact 🚀
