@@ -43,7 +43,7 @@ Experienced in deploying real-world solutions across multiple clients and optimi
 
 ### 🟢 VoiceBot (Vitos)
 
-* Delivered AI VoiceBot solutions for clients like Airtel, PhonePe, BigBasket, Bajaj Electricals
+* Delivered AI VoiceBot solutions for multiple clients
 * Built **prompt systems + workflow automation tools**
 * Developed internal frameworks: **Prompt Library & Action Forge (prod deployed)**
 
